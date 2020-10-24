@@ -16,7 +16,7 @@
 
 ### :globe_with_meridians: Idioma
 
-Seleccione el idioma: [Portugués] (https://github.com/esiammd/pagina-rastreio/blob/master/README.md), Español, [Inglés] (https://github.com/esiammd/pagina-rastreio/blob/master/README-en.md)
+Seleccione el idioma: [Portugués](https://github.com/esiammd/pagina-rastreio), Español, [Inglés](https://github.com/esiammd/pagina-rastreio/blob/master/README-en.md)
 
 
 ### 🚀 Tecnologia
