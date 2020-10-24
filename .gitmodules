@@ -1,0 +1,6 @@
+[submodule "pagina-rastreio-backend"]
+	path = pagina-rastreio-backend
+	url = https://github.com/esiammd/pagina-rastreio-backend
+[submodule "pagina-rastreio-frontend"]
+	path = pagina-rastreio-frontend
+	url = https://github.com/esiammd/pagina-rastreio-frontend
